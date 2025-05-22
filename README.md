@@ -1,2 +1,2 @@
 # pytek
-Technical program in Python.
+Technical programs in Python.
